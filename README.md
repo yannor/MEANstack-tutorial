@@ -10,6 +10,7 @@ Yannick Servranckx
 - Open browser
 - Surf naar localhost:3000
 <br />
+<br />
 Shopping List: http://www.w3schools.com/angular/angular_application.asp <br />
 Flapper news: https://thinkster.io/tutorials/mean-stack 
 
