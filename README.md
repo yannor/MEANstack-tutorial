@@ -10,4 +10,6 @@ Yannick Servranckx
 - Open browser
 - Surf naar localhost:3000
 
+https://thinkster.io/tutorials/mean-stack 
+
 
