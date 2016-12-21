@@ -2,7 +2,7 @@
 
 Yannick Servranckx
 
-- Start mongo
+- Start mongo (in map mongo command: mongod &)
 - Ga naar map project en open cmd
 - Commands
   * Npm install
