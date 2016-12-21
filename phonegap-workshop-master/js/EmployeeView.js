@@ -1,5 +1,6 @@
 var EmployeeView = function(employee) {
 
+
     this.initialize = function() {
         this.el = $('<div/>');
     };
