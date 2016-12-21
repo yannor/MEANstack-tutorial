@@ -16,8 +16,8 @@
         Yannick Servranckx
     </author>
 
-    <gap:plugin name="org.apache.cordova.camera" />
-    <gap:plugin name="org.apache.cordova.contacts" />
+    <plugin name="cordova-plugin-camera" spec="~2.3.1" />
+    <plugin name="cordova-plugin-contacts" spec="~2.2.1" />
     <feature name="http://api.phonegap.com/1.0/file"/>
     <feature name="http://api.phonegap.com/1.0/geolocation"/>
     <feature name="http://api.phonegap.com/1.0/media"/>
