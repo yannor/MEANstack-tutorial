@@ -13,7 +13,8 @@ Yannick Servranckx
 <br />
 <br />
 Shopping List: http://www.w3schools.com/angular/angular_application.asp <br />
-Flapper news: https://thinkster.io/tutorials/mean-stack 
+Flapper news: https://thinkster.io/tutorials/mean-stack <br/>
+Phonegap tutorial: http://coenraets.org/blog/phonegap-tutorial/
 
 
 
